@@ -1,3 +1,6 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/xwing/Documents/Repos%20HackTober/Scalla-Learning/hello-world/project/"), "hello-world-build")...
-[debug] Done updating ProjectRef(uri("file:/Users/xwing/Documents/Repos%20HackTober/Scalla-Learning/hello-world/project/"), "hello-world-build")
+[0m[[0m[33mwarn[0m] [0m[0msbt-bloop_2.12_1.0-1.5.11-sources.jar no longer exists at /Users/xwing/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.11/sbt-bloop_2.12_1.0-1.5.11-sources.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = false, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/mnt/c/Mateus/hacktoberfest%202023/colaborados/Repo3/Scalla-Learning/hello-world/project/"), "hello-world-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of [0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of [0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/mnt/c/Mateus/hacktoberfest%202023/colaborados/Repo3/Scalla-Learning/hello-world/project/"), "hello-world-build")[0m
