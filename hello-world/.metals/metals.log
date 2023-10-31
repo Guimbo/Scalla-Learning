@@ -1,0 +1,33 @@
+2023.10.31 11:24:34 INFO  Started: Metals version 1.1.0 in folders '/Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world' for client Visual Studio Code 1.82.3.
+2023.10.31 11:24:36 WARN  Build server is not auto-connectable.
+2023.10.31 11:24:41 INFO  running '/Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/gg/2jgvbydx2yl7c2nrkj8x3nkh0000gn/T/metals9432706957302936364/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.10.31 11:24:41 WARN  no build target for: /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/metals.sbt
+2023.10.31 11:24:41 WARN  no build target for: /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/project/metals.sbt
+2023.10.31 11:24:41 INFO  skipping build import with status 'Started'
+2023.10.31 11:24:43 INFO  [info] welcome to sbt 1.9.6 (Oracle Corporation Java 17)
+2023.10.31 11:24:47 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.10.31 11:24:48 INFO  no build target found for /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2023.10.31 11:24:49 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/project
+2023.10.31 11:24:52 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.10.31 11:24:52 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project
+2023.10.31 11:24:56 INFO  [success] Generated .bloop/hello-world-build.json
+2023.10.31 11:24:56 INFO  [success] Total time: 4 s, completed 31 de out. de 2023 11:24:56
+2023.10.31 11:25:00 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.10.31 11:25:00 INFO  [info] set current project to hello-world (in build file:/Users/xwing/Documents/Repos%20HackTober/Scalla-Learning/hello-world/)
+2023.10.31 11:25:02 INFO  [success] Generated .bloop/hello-world.json
+2023.10.31 11:25:02 INFO  [success] Generated .bloop/hello-world-test.json
+2023.10.31 11:25:02 INFO  [success] Total time: 1 s, completed 31 de out. de 2023 11:25:02
+2023.10.31 11:25:02 INFO  time: ran 'sbt bloopInstall' in 21s
+2023.10.31 11:25:02 INFO  Attempting to connect to the build server...
+2023.10.31 11:25:02 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:25:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:25:02 INFO  Attempting to connect to the build server...
+2023.10.31 11:25:02 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:25:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:25:03 INFO  time: Connected to build server in 0.98s
+2023.10.31 11:25:03 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:25:04 INFO  Shutting down server
+2023.10.31 11:25:04 INFO  shutting down Metals
+2023.10.31 11:25:04 INFO  Shut down connection with build server.
+2023.10.31 11:25:04 INFO  Shut down connection with build server.
+2023.10.31 11:25:04 INFO  Exiting server

@@ -1,0 +1,195 @@
+2023.10.31 11:23:59 INFO  Started: Metals version 1.1.0 in folders '/Users/xwing/Documents/Repos HackTober/Scalla-Learning' for client Visual Studio Code 1.82.3.
+2023.10.31 11:24:01 WARN  Build server is not auto-connectable.
+2023.10.31 11:24:01 WARN  no build tool detected in workspace '/Users/xwing/Documents/Repos HackTober/Scalla-Learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+out. 31, 2023 11:24:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.31 11:24:22 INFO  
+2023.10.31 11:24:22 INFO  Template applied in /Users/xwing/Documents/Repos HackTober/Scalla-Learning/./hello-world
+2023.10.31 11:24:22 INFO  
+2023.10.31 11:24:22 INFO  time: ran 'giter8.Giter8' in 2.87s
+2023.10.31 11:24:27 INFO  Shutting down server
+2023.10.31 11:24:27 INFO  shutting down Metals
+2023.10.31 11:24:27 INFO  Exiting server
+2023.10.31 11:25:16 INFO  Started: Metals version 1.1.0 in folders '/Users/xwing/Documents/Repos HackTober/Scalla-Learning' for client Visual Studio Code 1.82.3.
+2023.10.31 11:25:17 INFO  Attempting to connect to the build server...
+2023.10.31 11:25:17 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:25:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:25:18 INFO  time: Connected to build server in 0.54s
+2023.10.31 11:25:18 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:25:21 INFO  running '/Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/gg/2jgvbydx2yl7c2nrkj8x3nkh0000gn/T/metals10259287295510373721/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.10.31 11:25:23 INFO  [info] welcome to sbt 1.9.6 (Oracle Corporation Java 17)
+2023.10.31 11:25:23 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.10.31 11:25:26 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/project
+2023.10.31 11:25:26 INFO  time: indexed workspace in 8.34s
+2023.10.31 11:25:27 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.10.31 11:25:27 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project
+2023.10.31 11:25:32 INFO  [success] Generated .bloop/hello-world-build.json
+2023.10.31 11:25:32 INFO  [success] Total time: 4 s, completed 31 de out. de 2023 11:25:32
+2023.10.31 11:25:32 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.10.31 11:25:32 INFO  [info] set current project to hello-world (in build file:/Users/xwing/Documents/Repos%20HackTober/Scalla-Learning/hello-world/)
+2023.10.31 11:25:33 INFO  [success] Generated .bloop/hello-world-test.json
+2023.10.31 11:25:33 INFO  [success] Generated .bloop/hello-world.json
+2023.10.31 11:25:33 INFO  [success] Total time: 0 s, completed 31 de out. de 2023 11:25:33
+2023.10.31 11:25:33 INFO  time: ran 'sbt bloopInstall' in 12s
+2023.10.31 11:25:33 INFO  Disconnecting from Bloop session...
+2023.10.31 11:25:33 INFO  Shut down connection with build server.
+2023.10.31 11:25:33 INFO  Attempting to connect to the build server...
+2023.10.31 11:25:33 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:25:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:25:33 INFO  time: Connected to build server in 84ms
+2023.10.31 11:25:33 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:25:38 INFO  time: indexed workspace in 4.4s
+2023.10.31 11:25:49 INFO  Disconnecting from Bloop session...
+2023.10.31 11:25:49 INFO  Shut down connection with build server.
+2023.10.31 11:25:49 INFO  Attempting to connect to the build server...
+2023.10.31 11:25:49 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:25:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:25:49 INFO  time: Connected to build server in 63ms
+2023.10.31 11:25:49 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:25:53 INFO  time: indexed workspace in 3.88s
+2023.10.31 11:26:12 INFO  running '/Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/gg/2jgvbydx2yl7c2nrkj8x3nkh0000gn/T/metals717918945395474478/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.10.31 11:26:15 INFO  [info] welcome to sbt 1.9.6 (Oracle Corporation Java 17)
+2023.10.31 11:26:15 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.10.31 11:26:17 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project/project
+2023.10.31 11:26:19 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.10.31 11:26:19 INFO  [info] loading project definition from /Users/xwing/Documents/Repos HackTober/Scalla-Learning/hello-world/project
+2023.10.31 11:26:23 INFO  [success] Generated .bloop/hello-world-build.json
+2023.10.31 11:26:23 INFO  [success] Total time: 4 s, completed 31 de out. de 2023 11:26:23
+2023.10.31 11:26:23 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.10.31 11:26:24 INFO  [info] set current project to hello-world (in build file:/Users/xwing/Documents/Repos%20HackTober/Scalla-Learning/hello-world/)
+2023.10.31 11:26:24 INFO  [success] Generated .bloop/hello-world-test.json
+2023.10.31 11:26:24 INFO  [success] Generated .bloop/hello-world.json
+2023.10.31 11:26:24 INFO  [success] Total time: 0 s, completed 31 de out. de 2023 11:26:24
+2023.10.31 11:26:24 INFO  time: ran 'sbt bloopInstall' in 11s
+2023.10.31 11:26:24 INFO  Disconnecting from Bloop session...
+2023.10.31 11:26:24 INFO  Shut down connection with build server.
+2023.10.31 11:26:24 INFO  Attempting to connect to the build server...
+2023.10.31 11:26:24 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:26:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:26:24 INFO  time: Connected to build server in 49ms
+2023.10.31 11:26:24 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:26:28 INFO  time: indexed workspace in 3.94s
+2023.10.31 11:26:43 INFO  compiling hello-world (1 scala source)
+2023.10.31 11:26:45 INFO  time: compiled hello-world in 1.84s
+2023.10.31 11:30:30 INFO  Disconnecting from Bloop session...
+2023.10.31 11:30:30 INFO  Shut down connection with build server.
+2023.10.31 11:30:30 INFO  Attempting to connect to the build server...
+2023.10.31 11:30:30 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:30:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:30:30 INFO  time: Connected to build server in 60ms
+2023.10.31 11:30:30 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:30:34 INFO  time: indexed workspace in 3.99s
+2023.10.31 11:34:49 INFO  Disconnecting from Bloop session...
+2023.10.31 11:34:49 INFO  Shut down connection with build server.
+2023.10.31 11:34:49 INFO  Attempting to connect to the build server...
+2023.10.31 11:34:49 INFO  Bloop uses /Users/xwing/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/xwing/.bloop/bloop.json
+2023.10.31 11:34:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/bsp.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.31 11:34:49 INFO  time: Connected to build server in 52ms
+2023.10.31 11:34:49 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.31 11:34:53 INFO  time: indexed workspace in 4.13s
+out. 31, 2023 11:35:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.31 11:35:50 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:35:50 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:35:50 INFO  Starting debug proxy for [Main]
+2023.10.31 11:35:51 INFO  Loaded expression compiler in 998 milliseconds
+2023.10.31 11:35:53 INFO  Loaded all sources and classes in 2 seconds
+2023.10.31 11:35:53 INFO  Trying to attach to remote debuggee VM localhost:53618 .
+2023.10.31 11:35:53 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:35:54 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:35:53 INFO  Closing debug server tcp://0.0.0.0:53614
+out. 31, 2023 11:35:54 AM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireError
+SEVERE: java.net.SocketException: Socket closed
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.net.SocketException: Socket closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.debug.SocketEndpoint.consume(SocketEndpoint.scala:22)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.consume(MessageIdAdapter.scala:43)
+	at scala.meta.internal.metals.debug.ServerAdapter.send(ServerAdapter.scala:30)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:158)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.SocketException: Socket closed
+	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:165)
+	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:366)
+	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:411)
+	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440)
+	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:826)
+	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1035)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 16 more
+
+2023.10.31 11:36:01 INFO  Deduplicating compilation of hello-world from bsp client 'Metals 1.1.0' (since 1m 12.588s)
+2023.10.31 11:36:01 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:36:01 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:36:01 INFO  Starting debug proxy for [Main]
+2023.10.31 11:36:01 INFO  Loaded expression compiler in 2 milliseconds
+2023.10.31 11:36:02 INFO  Loaded all sources and classes in 878 milliseconds
+2023.10.31 11:36:02 INFO  Trying to attach to remote debuggee VM localhost:53631 .
+2023.10.31 11:36:02 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:36:03 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:36:02 INFO  Closing debug server tcp://0.0.0.0:53628
+2023.10.31 11:36:05 INFO  Deduplicating compilation of hello-world from bsp client 'Metals 1.1.0' (since 1m 16.036s)
+2023.10.31 11:36:05 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:36:05 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:36:05 INFO  Starting debug proxy for [Main]
+2023.10.31 11:36:05 INFO  Loaded expression compiler in 1 millisecond
+2023.10.31 11:36:05 INFO  Loaded all sources and classes in 635 milliseconds
+2023.10.31 11:36:05 INFO  Trying to attach to remote debuggee VM localhost:53641 .
+2023.10.31 11:36:05 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:36:05 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:36:06 INFO  Closing debug server tcp://0.0.0.0:53638
+2023.10.31 11:36:07 INFO  Deduplicating compilation of hello-world from bsp client 'Metals 1.1.0' (since 1m 18.181s)
+2023.10.31 11:36:07 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:36:07 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:36:07 INFO  Starting debug proxy for [Main]
+2023.10.31 11:36:07 INFO  Loaded expression compiler in 1 millisecond
+2023.10.31 11:36:07 INFO  Loaded all sources and classes in 683 milliseconds
+2023.10.31 11:36:07 INFO  Trying to attach to remote debuggee VM localhost:53652 .
+2023.10.31 11:36:07 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:36:08 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:36:08 INFO  Closing debug server tcp://0.0.0.0:53649
+out. 31, 2023 11:36:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+out. 31, 2023 11:36:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.31 11:36:59 INFO  Deduplicating compilation of hello-world from bsp client 'Metals 1.1.0' (since 2m 10.128s)
+2023.10.31 11:36:59 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:36:59 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:36:59 INFO  Starting debug proxy for [Main]
+2023.10.31 11:36:59 INFO  Loaded expression compiler in 1 millisecond
+2023.10.31 11:36:59 INFO  Loaded all sources and classes in 658 milliseconds
+2023.10.31 11:36:59 INFO  Trying to attach to remote debuggee VM localhost:53670 .
+2023.10.31 11:36:59 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:36:59 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:37:00 INFO  Closing debug server tcp://0.0.0.0:53667
+2023.10.31 11:37:04 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:37:04 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:37:04 INFO  Starting debug proxy for [Main]
+2023.10.31 11:37:04 INFO  Loaded expression compiler in 2 milliseconds
+2023.10.31 11:37:04 INFO  Loaded all sources and classes in 528 milliseconds
+2023.10.31 11:37:04 INFO  Trying to attach to remote debuggee VM localhost:53680 .
+2023.10.31 11:37:04 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:37:04 INFO  Closing debug server tcp://0.0.0.0:53677
+2023.10.31 11:37:05 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:37:13 INFO  Deduplicating compilation of hello-world from bsp client 'Metals 1.1.0' (since 2m 24.478s)
+2023.10.31 11:37:13 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-server.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2023.10.31 11:37:13 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xwing/Documents/Repos HackTober/Scalla-Learning/.metals/dap-client.trace.json or /Users/xwing/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2023.10.31 11:37:13 INFO  Starting debug proxy for [Main]
+2023.10.31 11:37:13 INFO  Loaded expression compiler in 1 millisecond
+2023.10.31 11:37:13 INFO  Loaded all sources and classes in 506 milliseconds
+2023.10.31 11:37:13 INFO  Trying to attach to remote debuggee VM localhost:53691 .
+2023.10.31 11:37:13 INFO  Attaching to debuggee VM succeeded.
+2023.10.31 11:37:21 INFO  Canceling debug proxy for [Main]
+2023.10.31 11:37:21 INFO  Closing debug server tcp://0.0.0.0:53688
